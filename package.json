@@ -1,0 +1,23 @@
+{
+   "name": "Spotify2Youtube",
+   "version": "0.0.0",
+   "private": true,
+   "type": "module",
+   "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+   },
+   "dependencies": {
+      "axios": "^1.7.7",
+      "pinia": "^2.1.7",
+      "qs": "^6.13.0",
+      "vue": "^3.4.29",
+      "vue-router": "^4.3.3"
+   },
+   "devDependencies": {
+      "@vitejs/plugin-vue": "^5.0.5",
+      "sass-embedded": "^1.79.4",
+      "vite": "^5.3.1"
+   }
+}
