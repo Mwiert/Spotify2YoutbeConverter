@@ -4,7 +4,7 @@ This app converts your songs in spotify playlist to youtube playlist.
 
 # usage
 
-Create an google dev api and spotify dev api get credentials.
+Create an google dev api and spotify dev api for get credentials.
 change the credentials in google.js and spotify.js in store.
 
 ## Project Setup
